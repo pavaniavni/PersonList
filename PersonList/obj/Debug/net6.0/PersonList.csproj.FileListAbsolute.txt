@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\PersonList.exe
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\PersonList.deps.json
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\PersonList.runtimeconfig.json
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\PersonList.dll
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\ref\PersonList.dll
+C:\Users\Pavani\source\repos\PersonList\PersonList\bin\Debug\net6.0\PersonList.pdb
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.dll
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\ref\PersonList.dll
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.pdb
+C:\Users\Pavani\source\repos\PersonList\PersonList\obj\Debug\net6.0\PersonList.genruntimeconfig.cache
